@@ -1,0 +1,26 @@
+{
+  "name": "simple_node_app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-real-finnventor/simple_node_app.git"
+  },
+  "author": "The Real Finnventor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-real-finnventor/simple_node_app/issues"
+  },
+  "homepage": "https://github.com/the-real-finnventor/simple_node_app#readme",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "express": "^4.18.2",
+    "open": "^9.1.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "type": "module"
+}
