@@ -1,3 +1,4 @@
+#!node
 import express from 'express';
 import open from 'open';
 import { fileURLToPath } from 'url';

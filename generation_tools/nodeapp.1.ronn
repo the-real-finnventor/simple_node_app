@@ -1,0 +1,31 @@
+## NAME
+
+nodeapp - A simple Node.js web app.
+
+## SYNOPSIS
+
+`nodeapp [-h] [-p PORT]`
+
+## DESCRIPTION
+
+nodeapp is a program that launches a web app hosted on your computer.
+
+## EXAMPLES
+
+To host on default port (port 8000):
+
+    nodeapp
+
+To host on a specific port:
+
+    nodeapp -p <PORT>
+
+## AUTHOR
+
+The Real Finnventor <finnventor@everspaugh.com>
+
+## SEE ALSO
+
+get
+
+[A program to get stuff from the world wide web.](https://github.com/the-real-finnventor/get)
